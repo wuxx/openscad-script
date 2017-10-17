@@ -1,2 +1,2 @@
 rotate(80, [ 1, 0, 0 ]) 
-cube([30, 10, 100], center = true);
+cube([10, 5, 50], center = true);

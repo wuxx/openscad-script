@@ -1,4 +1,4 @@
-$fn = 1000;
+$fn = 10000;
 color("cyan")
     translate([0, 0, 0])
         linear_extrude(height = 20, twist = 90)
