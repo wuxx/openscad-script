@@ -1,4 +1,4 @@
-$fn = 10000;
+$fn = 1000;
 echo(version=version());
 bodywidth = dxf_dim(file = "example009.dxf", name = "bodywidth");
 fanwidth = dxf_dim(file = "example009.dxf", name = "fanwidth");
